@@ -31,4 +31,4 @@ Existing methods often fall short in capturing the comprehensive multi-granulari
 
 # Cross-Granularity Visualization
 We visualized the context similarity weight matrix of the trajectory sequence for user ID 2064 to provide further evidence that learning factual cross-granularity relationships improves prediction results. We observed that fine-grained attention shares a similar attention distribution with coarser-grained attention, verifying that fine-grained movement patterns rely on coarse-grained ones.
-![Visualization]((fig/cross_granularity.png))
+![Visualization](fig/cross_granularity.png)
